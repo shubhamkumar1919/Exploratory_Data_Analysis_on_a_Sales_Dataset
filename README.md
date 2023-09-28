@@ -9,7 +9,7 @@ Objectives of the project:
 
 ℚ. What we have done in this project?
 
-⇾ Performed Data Cleaning, Data Manipulation and Data Visualization.
+⇾ Performed Data Cleaning, Data Manipulation, Data Visualization and Data Analysis.
 ⇾ Performed Exploratory Data Analysis (EDA) using Pandas, Matplotlib and Seaborn libraries of Python.
 ⇾ Improved customer's experience by identifying potential customers across different states, occupations, gender and age groups.
 ⇾ Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
