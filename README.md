@@ -1,6 +1,6 @@
 Name of the Project : Diwali Sales Analysis
 
-This project is based on Exploratory Data Analysis (EDA)
+This project is based on Exploratory Data Analysis (EDA).
 
 Objectives of the project:
 
@@ -9,7 +9,7 @@ Objectives of the project:
 
 ℚ. What we have done in this project?
 
-⇾ Performed data cleaning and manipulation.
-⇾ Performed Exploratory Data Analysis (EDA) using pandas, matplotlib and seaborn libraries of python.
+⇾ Performed Data Cleaning, Data Manipulation and Data Visualization.
+⇾ Performed Exploratory Data Analysis (EDA) using Pandas, Matplotlib and Seaborn libraries of Python.
 ⇾ Improved customer's experience by identifying potential customers across different states, occupations, gender and age groups.
 ⇾ Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
