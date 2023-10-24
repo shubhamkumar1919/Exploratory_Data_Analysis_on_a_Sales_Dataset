@@ -1,15 +1,9 @@
-Name of the Project : Diwali Sales Analysis
+Based on Exploratory Data Analysis (EDA).<br><br>
 
-This project is based on Exploratory Data Analysis (EDA).
+Key Competencies : Pandas, Matplotlib, and Seaborn library of Python, Data Cleaning, Data Visualization and Data Analysis<br><br>
 
-Objectives of the project:
+⇾ Conducted Exploratory Data Analysis (EDA) on the 'Diwali Sales' dataset using Python.<br><br>
 
-⇾ To improve customer's experience by analyzing sales data.
-⇾ To increase revenue of the company.
+⇾ Utilized Pandas for Data Cleaning, Data Preprocessing and Data Transformation and created Data Visualizations with Matplotlib and Seaborn to extract valuable insights and reveal patterns.<br><br>
 
-ℚ. What we have done in this project?
-
-⇾ Performed Data Cleaning, Data Manipulation, Data Visualization and Data Analysis.
-⇾ Performed Exploratory Data Analysis (EDA) using Pandas, Matplotlib and Seaborn libraries of Python.
-⇾ Improved customer's experience by identifying potential customers across different states, occupations, gender and age groups.
-⇾ Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
+⇾ Demonstrated strong Data Analysis and Data Visualization skills for data-driven recommendations and decisionmaking.<br><br>
