@@ -5,5 +5,3 @@ Key Competencies : Pandas, Matplotlib, and Seaborn library of Python, Data Clean
 ⇾ Conducted Exploratory Data Analysis (EDA) on the 'Diwali Sales' dataset using Python.<br><br>
 
 ⇾ Utilized Pandas for Data Cleaning, Data Preprocessing and Data Transformation and created Data Visualizations with Matplotlib and Seaborn to extract valuable insights and reveal patterns.<br><br>
-
-⇾ Demonstrated strong Data Analysis and Data Visualization skills for data-driven recommendations and decisionmaking.<br><br>
